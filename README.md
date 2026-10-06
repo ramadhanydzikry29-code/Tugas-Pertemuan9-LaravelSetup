@@ -136,3 +136,14 @@ exit
 Data akan tampil di halaman `/contact`.
 
 ## Screenshot
+##welcome
+<img width="887" height="460" alt="Welcome" src="https://github.com/user-attachments/assets/2be941c3-c691-4a38-9b83-0d5c4af3327a" />
+##about
+<img width="814" height="443" alt="About" src="https://github.com/user-attachments/assets/23830a29-dcb8-4578-82fa-12dc5a925d2e" />
+##contact
+<img width="767" height="446" alt="Contact" src="https://github.com/user-attachments/assets/f7188ca3-4ea0-4fcf-9c9a-a1ee198dd2cd" />
+##hello
+<img width="776" height="370" alt="Hello" src="https://github.com/user-attachments/assets/e44fe8c4-9aa0-42ea-a7af-2f6808dd3c6e" />
+
+
+
