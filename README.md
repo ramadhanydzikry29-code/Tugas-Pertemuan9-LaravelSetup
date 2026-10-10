@@ -3,8 +3,8 @@
 **Tugas Rutin 9 — Setup Laravel**
 Pemrograman Web (3KOM40115) · FMIPA Universitas Negeri Medan
 
-**Nama:** Dzikry Ramadhany
-**NIM:** 4251250008
+- Nama: Dzikry Ramadhany
+- NIM: 4251250008
 
 Project Laravel dengan 3 route kustom (`/`, `/about`, `/contact`) yang mengembalikan Blade view, data dinamis dari array, 1 controller, 1 model beserta migration, serta bonus styling Tailwind CDN dan route parameter `/hello/{nama}`.
 
